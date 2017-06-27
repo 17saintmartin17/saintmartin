@@ -1,0 +1,23 @@
+name,official name,latitude,longitude,type
+Alps,Alps,46.88761909999999,9.656999599999999,"['establishment', 'natural_feature']"
+Amiens,"Amiens, France",49.894067,2.295753,"['locality', 'political']"
+Aquileia,"33051 Aquileia UD, Italy",45.76816909999999,13.3687199,"['locality', 'political']"
+Gallinaria,"Gallinara, Italy",44.0257269,8.2260829,"['establishment', 'natural_feature']"
+Gaul,"Gaul, Uttarakhand 246428, India",30.0127305,79.2620294,"['locality', 'political']"
+Illyria,"Illyria, IA 52169, USA",42.8985928,-91.63515149999999,"['locality', 'political']"
+Italy,Italy,41.87194,12.56738,"['country', 'political']"
+Loire,"Loire, France",46.3325972,1.044527,"['establishment', 'natural_feature']"
+Milan,"Milan, Italy",45.4654219,9.1859243,"['locality', 'political']"
+Pannonia,"Panonija, Serbia",45.7511048,19.5209278,"['locality', 'political']"
+Paris,"Paris, France",48.856614,2.3522219,"['locality', 'political']"
+Rome,"Rome, Italy",41.9027835,12.4963655,"['locality', 'political']"
+Sabaria,"Szombathely, Hungary",47.2306851,16.6218441,"['locality', 'political']"
+Spain,Spain,40.46366700000001,-3.74922,"['country', 'political']"
+Ticinum,"Pavia, Province of Pavia, Italy",45.2049047,9.157935499999999,"['administrative_area_level_3', 'political']"
+Tours,"Tours, France",47.394144,0.68484,"['locality', 'political']"
+Treves,"Trier, Germany",49.749992,6.6371433,"['locality', 'political']"
+certain village,"Certain Rd, West Terre Haute, IN 47885, USA",39.4267844,-87.49515989999999,['route']
+in a certain village,"Certain Rd, West Terre Haute, IN 47885, USA",39.4267844,-87.49515989999999,['route']
+kingdom of God,"4590 Welcome All Rd, Atlanta, GA 30349, USA",33.6303653,-84.5277855,"['church', 'establishment', 'place_of_worship', 'point_of_interest']"
+the city,"San Francisco, CA, USA",37.7749295,-122.4194155,"['locality', 'political']"
+village of the ?dui,"9200 Indian Creek Pkwy #450, Overland Park, KS 66210, USA",38.9327167,-94.69191339999999,"['establishment', 'lawyer', 'point_of_interest']"
