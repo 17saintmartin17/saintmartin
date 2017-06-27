@@ -1,0 +1,29 @@
+chapter,list_of_names,list_of_places
+PREFACE TO DESIDERIUS. ,"{'severus', 'desiderius', 'god', 'st. martin', 'martin'}",{'kingdom of god'}
+CHAPTER I. Reasons for writing the Life of St. Martin. ,"{'lord', 'hector', 'god', 'st. martin', 'martin', 'spirit', 'sulpitius', 'socrates'}",{'tours'}
+CHAPTER II. Military Service of St. Martin. ,"{'christ', 'king constantine', 'god', 'st. martin', 'martin', 'sulpitius'}","{'italy', 'pannonia', 'ticinum', 'sabaria'}"
+CHAPTER III. Christ appears to St. Martin. ,"{'christ', 'lord', 'god', 'st. martin', 'martin', 'sulpitius', 'jesus'}","{'the city', 'amiens'}"
+CHAPTER IV. Martin retires from Military Service. ,"{'christ', 'lord', 'god', 'martin', 'jesus', 'lord jesus'}","{'gaul', 'vaugiones', 'the city'}"
+CHAPTER V. Martin converts a Robber to the Faith. ,"{'christ', 'lord', 'hilarius', 'god', 'holy hilarius', 'martin', 'pictava'}","{'the city', 'alps'}"
+CHAPTER VI. The Devil throws himself in the Way of Martin. ,"{'lord', 'devil', 'hilarius', 'milan', 'martin', 'holy hilarius', 'auxentius'}","{'gaul', 'rome', 'the city', 'illyria', 'italy', 'milan', 'gallinaria'}"
+CHAPTER VII. Martin restores a Catechumen to Life. ,"{'lord', 'hilarius', 'spirit of god', 'god', 'martin', 'spirit'}",set()
+CHAPTER VIII. Martin restores one that had been strangled. ,"{'lupicinus', 'martin'}",set()
+CHAPTER IX. High Esteem in which Martin was held. ,"{'defensor', 'lord', 'martin', 'ruricius'}","{'tours', 'loire'}"
+CHAPTER X. Martin as Bishop of Tours. ,{'martin'},"{'tours', 'loire', 'the city'}"
+CHAPTER XI. Martin demolishes an Altar consecrated to a Robber. ,"{'lord', 'martin'}",set()
+CHAPTER XII. Martin causes the Bearers of a Dead Body to stop. ,"{'god', 'martin'}",set()
+CHAPTER XIII. Martin escapes from a Falling Pine-tree. ,"{'christ', 'lord', 'god', 'martin', 'jesus', 'lord jesus'}","{'in a certain village', 'certain village'}"
+CHAPTER XIV. Martin destroys Heathen Temples and Altars. ,"{'lord', 'god', 'martin', 'jesus', 'lord jesus'}","{'in a certain village', 'leprosum', 'certain village'}"
+CHAPTER XV. Martin offers his Neck to an Assassin. ,"{'god', 'martin'}",set()
+CHAPTER XVI. Cures effected by St. Martin. ,"{'lord', 'st. martin', 'martin', 'spirit'}",{'treves'}
+CHAPTER XVII. Martin casts out Several Devils. ,"{'christ', 'devil', 'lord', 'tetradius', 'martin', 'spirit', 'jesus', 'lord jesus'}",set()
+CHAPTER XVIII. Martin performs Various Miracles. ,"{'martin', 'spirit'}","{'paris', 'the city'}"
+"CHAPTER XIX. A Letter of Martin effects a Cure, with Other Miracles. ","{'arborius', 'god', 'paulinus', 'martin'}",set()
+CHAPTER XX. How Martin acted towards the Emperor Maximus. ,"{'valentinianus', 'evodius', 'god', 'martin', 'maximus', 'emperor valentinianus', 'emperor maximus'}","{'italy', 'aquileia'}"
+CHAPTER XXI. Martin has to do both with Angels and Devils. ,"{'lord', 'devil', 'martin', 'spirit'}",set()
+CHAPTER XXII. Martin preaches Repentance even to the Devil. ,"{'jupiter', 'lord', 'mercury', 'devil', 'christ', 'minerva', 'god', 'st. martin', 'martin'}",set()
+CHAPTER XXIII. A Case of Diabolic Deception. ,"{'lord', 'anatolius', 'devil', 'clarus', 'god', 'martin'}",set()
+CHAPTER XXIV. Martin is tempted by the Wiles of the Devil. ,"{'lord jesus', 'christ', 'devil', 'lord', 'elias', 'god', 'antichrist', 'martin', 'spirit', 'sulpitius', 'jesus', 'john', 'rufus'}",{'spain'}
+CHAPTER XXV. Intercourse of Sulpitius with Martin. ,"{'lord', 'christ', 'paulinus', 'martin', 'sulpitius', 'jesus', 'lord jesus'}",set()
+CHAPTER XXVI. Words cannot describe the Excellences of Martin. ,"{'god', 'martin', 'homer'}",{'rome'}
+CHAPTER XXVII. Wonderful Piety of  Martin. ,"{'christ', 'god', 'st. martin', 'martin', 'spirit', 'sulpitius'}",set()
